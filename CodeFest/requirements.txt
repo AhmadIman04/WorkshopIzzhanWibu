@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+pydantic
+pydantic[email]
+fastapi-mail
+python-dotenv
+google-generativeai
+openai
+pandas
+numpy
+scikit-learn
+typing-extensions
